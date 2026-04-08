@@ -1,4 +1,5 @@
 # Qwen3-TTS Voice Studio Pro
+<img width="1653" height="1318" alt="image" src="https://github.com/user-attachments/assets/bcb7adcd-d696-42be-aede-35733fb2b6f5" />
 
 This project provides an optimized, local voice generation pipeline leveraging advanced acoustic modeling and hardware acceleration for seamless audio production.
 
